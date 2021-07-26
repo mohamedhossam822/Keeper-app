@@ -16,7 +16,7 @@ $ npm start
 
 ## Built With
 
-- react
+- React
 - Node.Js
-- npm packages
+- Npm packages
   - express
